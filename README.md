@@ -1,4 +1,4 @@
-<h3> ● JSP_Phonebookの説明 </h3>
+<h2> ● JSP_Phonebookの説明 </h2>
 - 試演映像
 
 
