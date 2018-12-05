@@ -1,9 +1,9 @@
-# ● JSP_Phonebookの説明
-<p2>- 試演映像</p2>
+<h3> ● JSP_Phonebookの説明 </h3>
+- 試演映像
 
 
 
-# ● K-Move SchoolのIT授業内容
+<h2> ● K-Move SchoolのIT授業内容 </h2>
 <table>
 <tr>
 	<th class="sbj">Subject</th>
