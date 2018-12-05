@@ -1,7 +1,9 @@
+# ● JSP_Phonebookの説明
+- 試演映像
 
 
 
-# K-Move SchoolのIT授業内容
+# ● K-Move SchoolのIT授業内容
 <table>
 <tr>
 	<th class="sbj">Subject</th>
