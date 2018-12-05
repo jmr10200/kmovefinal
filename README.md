@@ -1,9 +1,8 @@
 <h2> ● JSP_Phonebookの説明 </h2>
 - JSPで製作した電話帳 <br>
 - 試演映像
-
-
-
+<p href="https://youtu.be/HAEjYkYyoXk">Youtube</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HAEjYkYyoXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <h2> ● K-Move SchoolのIT授業内容 </h2>
 <table>
 <tr>
