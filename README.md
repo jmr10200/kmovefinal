@@ -42,11 +42,5 @@
 	<td>34 hour</td>
 	<td>jQuery 3.3.1</td>
 </tr>
-<tr>
-	<td class="sbj">JAVA</td>
-	<td>OOP, Collection, JDBC, File, etc.</td>
-	<td>131 hour</td>
-	<td>JDK 1.8.x, Eclipse Photon</td>
-</tr>
 </table>
 
