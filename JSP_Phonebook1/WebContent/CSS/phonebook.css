@@ -1,0 +1,47 @@
+@charset "UTF-8";
+table, th, td {
+	/* table 외곽선 */
+	border : 1px solid black;
+	border-collapse: collapse;
+}
+
+th, td {
+	/* table 내용 내부 여백 */
+	padding: 10px;
+}
+
+a {
+	/* a 태그 밑줄 없애기 */
+	text-decoration: none;
+}
+.center {
+    text-align: center;
+}
+
+ul.pagination{
+	list-style-type:none
+}
+
+ul.pagination li{
+    display: inline-block;
+}
+
+ul.pagination a {
+    color: black;
+    float: left;
+    padding: 4px 8px;
+    text-decoration: none;
+    transition: background-color .3s;
+    /* border: 1px solid #ddd; */
+    /* margin: 0 4px; */
+    margin: 0px;
+}
+
+ul.pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+
+ul.pagination a:hover:not(.active) {background-color: #ddd;}
+
