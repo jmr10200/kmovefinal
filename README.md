@@ -1,20 +1,5 @@
 # kmovefinal
 
-<style>
-table ,th, td {
-	border: 1px solid black;
-	border-collapse: collapse;
-}
-th {
-	background-color: lightgrey;
-}
-.sbj {
-	text-align: center;
-}
-
-
-</style>
-<body>
 <table>
 <tr>
 	<th class="sbj">Subject</th>
@@ -60,4 +45,3 @@ th {
 </tr>
 </table>
 
-</body>
